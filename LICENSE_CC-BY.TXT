@@ -8,7 +8,7 @@ parallax_fade_slug_5.png
 parallax_fade_slug_6.png
 
 by TDNSR:
-threats_unencumbered.mmp (please read additional notes inside project file)
+smd_threats.ogg
 tex_credits.png
 tex_credits.svg
 tex_din.png
@@ -20,6 +20,9 @@ tex_threats_sub.svg
 tex_vox.png
 tex_vox_dead.png
 threats.miproject
+threats.mkv
+threats.opus
+threats_unencumbered.mmp (please read additional notes inside project file)
 
 =======================================================================
 
